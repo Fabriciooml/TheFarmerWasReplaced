@@ -1,0 +1,2 @@
+def down():
+	move(South)

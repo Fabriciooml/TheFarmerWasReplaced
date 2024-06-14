@@ -1,0 +1,2 @@
+def right():
+	move(East)

@@ -1,0 +1,2 @@
+def left():
+	move(West)
